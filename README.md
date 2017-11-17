@@ -4,3 +4,4 @@
 	Mockito example
 
 
+Merge test
